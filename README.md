@@ -34,9 +34,9 @@ Repositório com exercícios práticos de Java cobrindo estruturas de decisão, 
 
 ## 📊 Estatísticas do GitHub
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasbarros190504&show_icons=true&theme=dark&hide_border=true)
+![Lucas's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucasbarros190504&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbarros190504&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasbarros190504&layout=compact&theme=dark&hide_border=true)
 
 ---
 
