@@ -27,6 +27,9 @@ Acredito que programar é resolver problemas reais, e é isso que me motiva a ev
 
 ## 📂 Projetos em destaque
 
+### 🏦 [sistema-bancario](https://github.com/Lucasbarros190504/sistema-bancario)
+Sistema bancário via terminal com abertura de conta, autenticação com limite de tentativas, depósito e saque. Desenvolvido com foco em POO, encapsulamento e boas práticas em Java.
+
 ### 🗳️ [java-fundamentos](https://github.com/Lucasbarros190504/java-fundamentos)
 Repositório com exercícios práticos de Java cobrindo estruturas de decisão, repetição, lógica de programação e boas práticas. Inclui Sistema de Votação, Classificador de Animais e Tabuada Dinâmica.
 
